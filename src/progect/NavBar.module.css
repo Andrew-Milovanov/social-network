@@ -1,0 +1,12 @@
+.nav {
+  grid-area: n;
+  background-color: cornflowerblue;
+  padding: 30px 20px;
+}
+.item a {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.item a.activ {
+  color: tomato;
+}
