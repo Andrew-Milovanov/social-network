@@ -1,6 +1,5 @@
 {
   "name": "my-app",
-  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -17,8 +16,7 @@
     "redux": "^4.0.5",
     "redux-form": "^8.3.6",
     "redux-thunk": "^2.3.0",
-    "reselect": "^4.0.0",
-    "homepage": "https://ayanok0uji.github.io/project_2/"
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -26,7 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
